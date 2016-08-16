@@ -1,0 +1,6 @@
+D:\SourceCode\SCSC\trunk\CIPnetWeb\DBOper\bin\Release\CIPnetWeb.DBOper.dll
+D:\SourceCode\SCSC\trunk\CIPnetWeb\DBOper\bin\Release\CIPnetWeb.DBOper.pdb
+D:\SourceCode\SCSC\trunk\CIPnetWeb\DBOper\bin\Release\XFBase.dll
+D:\SourceCode\SCSC\trunk\CIPnetWeb\DBOper\obj\Release\CIPnetWeb.DBOper.dll
+D:\SourceCode\SCSC\trunk\CIPnetWeb\DBOper\obj\Release\CIPnetWeb.DBOper.pdb
+D:\SourceCode\SCSC\trunk\CIPnetWeb\DBOper\obj\Release\DBOper.csprojResolveAssemblyReference.cache
