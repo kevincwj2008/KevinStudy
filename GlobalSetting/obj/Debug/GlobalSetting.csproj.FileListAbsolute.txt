@@ -1,0 +1,11 @@
+D:\SourceCode\SCSC\trunk\GlobalSetting\bin\Debug\GlobalSetting.dll
+D:\SourceCode\SCSC\trunk\GlobalSetting\bin\Debug\GlobalSetting.pdb
+D:\SourceCode\SCSC\trunk\GlobalSetting\bin\Debug\XFBase.dll
+D:\SourceCode\SCSC\trunk\GlobalSetting\obj\Debug\GlobalSetting.dll
+D:\SourceCode\SCSC\trunk\GlobalSetting\obj\Debug\GlobalSetting.pdb
+D:\SourceCode\SCSC\trunk\GlobalSetting\obj\Debug\GlobalSetting.csprojResolveAssemblyReference.cache
+D:\Study\BootStrap\GlobalSetting\bin\Debug\GlobalSetting.dll
+D:\Study\BootStrap\GlobalSetting\bin\Debug\GlobalSetting.pdb
+D:\Study\BootStrap\GlobalSetting\bin\Debug\XFBase.dll
+D:\Study\BootStrap\GlobalSetting\obj\Debug\GlobalSetting.dll
+D:\Study\BootStrap\GlobalSetting\obj\Debug\GlobalSetting.pdb

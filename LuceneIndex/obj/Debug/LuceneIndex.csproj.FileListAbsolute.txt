@@ -1,0 +1,17 @@
+D:\Study\LuceneNet\LuceneIndex\bin\Debug\LuceneIndex.exe.config
+D:\Study\LuceneNet\LuceneIndex\bin\Debug\LuceneIndex.exe
+D:\Study\LuceneNet\LuceneIndex\bin\Debug\LuceneIndex.pdb
+D:\Study\LuceneNet\LuceneIndex\obj\Debug\LuceneIndex.csprojResolveAssemblyReference.cache
+D:\Study\LuceneNet\LuceneIndex\obj\Debug\LuceneIndex.Index.resources
+D:\Study\LuceneNet\LuceneIndex\obj\Debug\LuceneIndex.Properties.Resources.resources
+D:\Study\LuceneNet\LuceneIndex\obj\Debug\LuceneIndex.csproj.GenerateResource.Cache
+D:\Study\LuceneNet\LuceneIndex\obj\Debug\LuceneIndex.exe
+D:\Study\LuceneNet\LuceneIndex\obj\Debug\LuceneIndex.pdb
+D:\Study\LuceneNet\LuceneIndex\bin\Debug\CIPnetWeb.DBOper.dll
+D:\Study\LuceneNet\LuceneIndex\bin\Debug\XFBase.dll
+D:\Study\LuceneNet\LuceneIndex\bin\Debug\CIPnetWeb.DBOper.pdb
+D:\Study\KevinStudy\LuceneIndex\bin\Debug\LuceneIndex.exe.config
+D:\Study\KevinStudy\LuceneIndex\obj\Debug\LuceneIndex.csprojResolveAssemblyReference.cache
+D:\Study\KevinStudy\LuceneIndex\obj\Debug\LuceneIndex.Index.resources
+D:\Study\KevinStudy\LuceneIndex\obj\Debug\LuceneIndex.Properties.Resources.resources
+D:\Study\KevinStudy\LuceneIndex\obj\Debug\LuceneIndex.csproj.GenerateResource.Cache
