@@ -1,6 +1,0 @@
-D:\SourceCode\SCSC\trunk\GlobalSetting\bin\Release\GlobalSetting.dll
-D:\SourceCode\SCSC\trunk\GlobalSetting\bin\Release\GlobalSetting.pdb
-D:\SourceCode\SCSC\trunk\GlobalSetting\bin\Release\XFBase.dll
-D:\SourceCode\SCSC\trunk\GlobalSetting\obj\Release\GlobalSetting.dll
-D:\SourceCode\SCSC\trunk\GlobalSetting\obj\Release\GlobalSetting.pdb
-D:\SourceCode\SCSC\trunk\GlobalSetting\obj\Release\GlobalSetting.csprojResolveAssemblyReference.cache
