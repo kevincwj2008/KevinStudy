@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Interface", "http://localhost:13065", "{F247E34F-C4FC-4183-A36C-DD66C4632C5F}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		ProjectReferences = "{1755fa37-ec91-4bfb-b167-11bf6ff1f61d}|CIPnetWeb.DBOper.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_13065"
+		Debug.AspNetCompiler.PhysicalPath = "Interface\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_13065\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_13065"
+		Release.AspNetCompiler.PhysicalPath = "Interface\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_13065\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "Interface\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBOper", "DBOper\DBOper.csproj", "{1755FA37-EC91-4BFB-B167-11BF6FF1F61D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F247E34F-C4FC-4183-A36C-DD66C4632C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F247E34F-C4FC-4183-A36C-DD66C4632C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F247E34F-C4FC-4183-A36C-DD66C4632C5F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F247E34F-C4FC-4183-A36C-DD66C4632C5F}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{F247E34F-C4FC-4183-A36C-DD66C4632C5F}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{F247E34F-C4FC-4183-A36C-DD66C4632C5F}.Release|x64.ActiveCfg = Debug|Any CPU
+		{1755FA37-EC91-4BFB-B167-11BF6FF1F61D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1755FA37-EC91-4BFB-B167-11BF6FF1F61D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1755FA37-EC91-4BFB-B167-11BF6FF1F61D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1755FA37-EC91-4BFB-B167-11BF6FF1F61D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1755FA37-EC91-4BFB-B167-11BF6FF1F61D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1755FA37-EC91-4BFB-B167-11BF6FF1F61D}.Release|x64.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
